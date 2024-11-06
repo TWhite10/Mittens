@@ -1,0 +1,16 @@
+body{
+    font-family: "Roboto", sans-serif,Arial, Helvetica;
+    
+
+}
+header{
+    background-image: linear-gradient(180deg,#c4b6fd, #93acfc);
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+.randomCatDiv{
+    text-align: center;
+}
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
